@@ -51,7 +51,7 @@ Implemented via nested `IF` logic in Excel — deliberately transparent so HR le
 
 The Tableau dashboard includes two linked bar charts with cross-filtering — clicking a factory in the top chart filters the device type breakdown below, enabling instant root-cause drilldown.
 
-![Dashboard Screenshot](./task1-telemetry-dashboard/Daikibo_Dashboard.png)
+![Dashboard Screenshot](Daikibo_Dashboard.png)
 
 *Dashboard showing Factory Seiko selected — LaserWelder responsible for all 480 minutes of Seiko's downtime.*
 
